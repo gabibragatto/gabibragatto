@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B7D2&height=200&section=header&text=Maria%20Gabriela%20%F0%9F%92%BB&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Futura%20Desenvolvedora%20%7C%20Sempre%Aprendendo%20%F0%9F%93%9A&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B7D2&height=200&section=header&text=Maria%20Gabriela%20%F0%9F%92%BB&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Futura%20Desenvolvedora%20%7C%20Sempre%20Aprendendo%20%F0%9F%93%9A&descAlignY=55&descAlign=50"/>
 </p>
 
 <h1 align="center">Olá! Eu sou a Maria Gabriela Blanc Bragatto 👋</h1>
