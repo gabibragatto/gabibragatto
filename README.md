@@ -1,50 +1,60 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Maria%20Gabriela%20Blanc%20Bragatto&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Futura%20Desenvolvedora&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Maria%20Gabriela%20Blanc%20Bragatto&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Futura%20Dev&descAlignY=55&descAlign=50"/>
 </p>
 
-<h1 align="center">Olá! Eu sou a Maria Gabriela Blanc Bragatto 👋</h1>
+<h1 align="center">Olá, eu sou Maria Gabriela Blanc Bragatto</h1>
 
-<h3 align="center">Estudante de Desenvolvimento de Sistemas | SESI + SENAI 💻</h3>
-
-<p align="center">
-  💛 Apaixonada por aprender | 📚 Leitora | 🚀 Futura profissional de tecnologia
-</p>
+<h3 align="center">Estudante de Desenvolvimento de Sistemas | SESI + SENAI</h3>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas no SENAI, e ensino médio no SESI**
-- 💡 Sempre curiosa e explorando novas áreas da tecnologia
-- 🌱 Atualmente aprendendo **Python, JavaScript e HTML**
-- 🤝 Buscando colaborar em projetos para ganhar experiência prática
-- 📚 Amo leitura, criatividade e aprender coisas novas
-- 🎯 Meu objetivo é crescer na área de tecnologia e construir minha carreira
+- 🎓 Estudante de Desenvolvimento de Sistemas no SESI/SENAI  
+- 💡 Curiosa e sempre explorando novas áreas da tecnologia  
+- 🌱 Atualmente aprendendo Python, JavaScript e HTML  
+- 🤝 Buscando participar de projetos para ganhar experiência prática  
+- 📚 Apaixonada por leitura, criatividade e aprendizado constante  
+- 🎯 Focada em construir minha carreira na área de tecnologia  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Em aprendizado
+## 📚 Atualmente estudando
 
-- Estrutura de sites com HTML
-- Lógica de programação com Python
-- Interatividade com JavaScript
+- Python para lógica de programação  
+- HTML e estruturação de páginas  
+- JavaScript para interatividade  
 
 ---
 
-## 🎯 Objetivos
+## 🚀 Projetos em destaque
 
-- Criar projetos práticos para meu portfólio
-- Aprimorar minhas habilidades em programação
-- Conhecer novas tecnologias
-- Me preparar para o mercado de trabalho
+🔹 Em breve adicionarei meus projetos aqui  
+🔹 Estou desenvolvendo meus primeiros sistemas no SENAI  
+
+---
+
+## 🏆 Conquistas
+
+- 🎓 Formação em andamento no SESI/SENAI  
+- 📘 Evolução constante em programação  
+- 💡 Participação em atividades práticas e projetos  
+
+---
+
+## 📊 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabibragatto&theme=radical" height="150"/>
+</p>
 
 ---
 
@@ -57,10 +67,10 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Contato
 
 <div align="center">
-  <a href="https://linkedin.com/in/maria-gabriela-blanc-bragatto" target="_blank">
+  <a href="https://linkedin.com/in//maria-gabriela-blanc-bragatto" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mgbragatto@gmail.com">
@@ -70,6 +80,14 @@
 
 ---
 
+## 💡 Curiosidades sobre mim
+
+- 📖 Amo livros e histórias envolventes  
+- 🎨 Gosto de atividades criativas  
+- 🚀 Sempre buscando aprender algo novo  
+
+---
+
 <p align="center">
-✨ “Sempre aprendendo, evoluindo e construindo meu espaço na tecnologia.” ✨
+📖✨ Entre histórias e algoritmos, descobrindo quem eu quero me tornar 💻🌙
 </p>
