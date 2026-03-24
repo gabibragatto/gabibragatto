@@ -1,20 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Maria%20Gabriela%20Blanc%20Bragatto&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Futura%20Dev&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Maria%20Gabriela%20Blanc%20Bragatto&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Futura%20Desenvolvedora&descAlignY=55&descAlign=50"/>
 </p>
 
-<h1 align="center">Olá, eu sou Maria Gabriela Blanc Bragatto</h1>
+<h1 align="center">Olá, eu sou Maria Gabriela Blanc Bragatto 👋</h1>
 
 <h3 align="center">Estudante de Desenvolvimento de Sistemas | SESI + SENAI</h3>
+
+<p align="center">
+  Uma estudante apaixonada por tecnologia, criatividade e aprendizado constante.
+</p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas no SESI/SENAI  
-- 💡 Curiosa e sempre explorando novas áreas da tecnologia  
-- 🌱 Atualmente aprendendo Python, JavaScript e HTML  
+- 🌱 Atualmente aprendendo **Python, JavaScript e HTML**  
+- 💡 Curiosa, criativa e sempre explorando novas áreas da tecnologia  
 - 🤝 Buscando participar de projetos para ganhar experiência prática  
-- 📚 Apaixonada por leitura, criatividade e aprendizado constante  
 - 🎯 Focada em construir minha carreira na área de tecnologia  
 
 ---
@@ -30,7 +33,7 @@
 ## 📚 Atualmente estudando
 
 - Python para lógica de programação  
-- HTML e estruturação de páginas  
+- HTML para estruturação de páginas  
 - JavaScript para interatividade  
 
 ---
@@ -38,15 +41,25 @@
 ## 🚀 Projetos em destaque
 
 🔹 Em breve adicionarei meus projetos aqui  
-🔹 Estou desenvolvendo meus primeiros sistemas no SENAI  
+🔹 Desenvolvendo meus primeiros sistemas e atividades práticas no SENAI  
+🔹 Construindo minha base em lógica, programação e desenvolvimento web  
 
 ---
 
 ## 🏆 Conquistas
 
 - 🎓 Formação em andamento no SESI/SENAI  
-- 📘 Evolução constante em programação  
-- 💡 Participação em atividades práticas e projetos  
+- 📘 Evolução constante em programação e lógica  
+- 💻 Participação em atividades práticas e projetos acadêmicos  
+
+---
+
+## 🎯 Objetivos
+
+- Desenvolver minhas habilidades em programação  
+- Participar de projetos práticos  
+- Construir um portfólio sólido na área de tecnologia  
+- Crescer profissionalmente como desenvolvedora  
 
 ---
 
@@ -89,5 +102,5 @@
 ---
 
 <p align="center">
-📖✨ Entre histórias e algoritmos, descobrindo quem eu quero me tornar 💻🌙
+  📖✨ Entre histórias e algoritmos, descobrindo quem eu quero me tornar 💻🌙
 </p>
