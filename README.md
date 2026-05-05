@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Maria%20Gabriela%20Blanc%20Bragatto&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Futura%20Desenvolvedora&descAlignY=55&descAlign=50"/>
 </p>
 
-<h1 align="center">Olá, eu sou Maria Gabriela Blanc Bragatto 👋</h1>
+<h1 align="center">Olá, eu sou Maria Gabriela Blanc Bragatto </h1>
 
 <h3 align="center">Estudante de Desenvolvimento de Sistemas | SESI + SENAI</h3>
 
@@ -14,27 +14,19 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de Desenvolvimento de Sistemas no SESI/SENAI  
-- 🌱 Atualmente aprendendo **Python, JavaScript e HTML**  
-- 💡 Curiosa, criativa e sempre explorando novas áreas da tecnologia  
-- 🤝 Buscando participar de projetos para ganhar experiência prática  
-- 🎯 Focada em construir minha carreira na área de tecnologia  
+-  Estudante de Desenvolvimento de Sistemas no SESI/SENAI  
+-  Atualmente aprendendo **JavaScript e HTML**  
+-  Curiosa, criativa e sempre explorando novas áreas da tecnologia  
+-  Buscando participar de projetos para ganhar experiência prática  
+-  Focada em construir minha carreira na área de tecnologia  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,git,github,vscode" />
 </p>
-
----
-
-## 📚 Atualmente estudando
-
-- Python para lógica de programação  
-- HTML para estruturação de páginas  
-- JavaScript para interatividade  
 
 ---
 
@@ -48,9 +40,9 @@
 
 ## 🏆 Conquistas
 
-- 🎓 Formação em andamento no SESI/SENAI  
-- 📘 Evolução constante em programação e lógica  
-- 💻 Participação em atividades práticas e projetos acadêmicos  
+-  Formação em andamento no SESI/SENAI  
+-  Evolução constante em programação e lógica  
+-  Participação em atividades práticas e projetos acadêmicos  
 
 ---
 
