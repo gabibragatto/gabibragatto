@@ -1,28 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Maria%20Gabriela%20Blanc%20Bragatto&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Futura%20Desenvolvedora&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff0f7b,100:ff4d6d&text=Maria%20Gabriela%20Blanc%20Bragatto&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=entre%20livros%20e%20algoritmos&descAlignY=55"/>
 </p>
-
-<h1 align="center">Olá, eu sou Maria Gabriela Blanc Bragatto </h1>
-
-<h3 align="center">Estudante de Desenvolvimento de Sistemas | SESI + SENAI</h3>
-
-<p align="center">
-  Uma estudante apaixonada por tecnologia, criatividade e aprendizado constante.
-</p>
+<h3 align="center">
+  <span style="color:#FFB3C6;">
+    criatividade • livros • tecnologia ✨
+  </span>
+</h3>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🌷 Sobre mim
 
--  Estudante de Desenvolvimento de Sistemas no SESI/SENAI  
--  Atualmente aprendendo **JavaScript e HTML**  
--  Curiosa, criativa e sempre explorando novas áreas da tecnologia  
--  Buscando participar de projetos para ganhar experiência prática  
--  Focada em construir minha carreira na área de tecnologia  
+```javascript
+const gabi = {
+  cursando: "Desenvolvimento de Sistemas",
+  escola: ["SESI (Ensino Médio)", "SENAI (Ensino Técnico)"],
+  aprendendo: ["JavaScript", "HTML", "GitHub"],
+  interesses: ["Tecnologia", "Design", "Livros", "Criatividade"],
+  planosfuturos : ["Engenharia de Alimentos", "Letras"],
+  hobbies: ["leituras", "artesanatos", "assistir filmes e séries"],
+}
+```
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 💻 Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,git,github,vscode" />
@@ -30,69 +32,56 @@
 
 ---
 
-## 🚀 Projetos em destaque
-
-🔹 Em breve adicionarei meus projetos aqui  
-🔹 Desenvolvendo meus primeiros sistemas e atividades práticas no SENAI  
-🔹 Construindo minha base em lógica, programação e desenvolvimento web  
-
----
-
-## 🏆 Conquistas
-
--  Formação em andamento no SESI/SENAI  
--  Evolução constante em programação e lógica  
--  Participação em atividades práticas e projetos acadêmicos  
-
----
-
-## 🎯 Objetivos
-
-- Desenvolver minhas habilidades em programação  
-- Participar de projetos práticos  
-- Construir um portfólio sólido na área de tecnologia  
-- Crescer profissionalmente como desenvolvedora  
-
----
-
-## 📊 Atividade no GitHub
+## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabibragatto&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabibragatto&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🌸 Atualmente
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabibragatto&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabibragatto&layout=compact&theme=radical" height="150" />
-</div>
+- 📚 Aprendendo JavaScript e desenvolvimento web
+- 💡 Criando meus primeiros projetos
+- 🎨 Tentando deixar tudo mais artístico
+- ☕ Sobrevivendo na base de música, livros e café
+
+---
+
+## 🚀 Projetos
+
+✨ Em construção...
+
+Mas logo esse espaço vai estar cheio de:
+
+- sistemas
+- projetos criativos
+- experiências do SENAI
+- ideias transformadas em código
 
 ---
 
 ## 🌐 Contato
 
-<div align="center">
-  <a href="https://linkedin.com/in/maria-gabriela-blanc-bragatto" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://linkedin.com/in/maria-gabriela-blanc-bragatto">
+    <img src="https://img.shields.io/badge/LinkedIn-ff4d8d?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:mgbragatto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-ff758f?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
-
----
-
-## 💡 Curiosidades sobre mim
-
-- 📖 Amo livros e histórias envolventes  
-- 🎨 Gosto de atividades criativas  
-- 🚀 Sempre buscando aprender algo novo  
+</p>
 
 ---
 
 <p align="center">
-  📖✨ Entre histórias e algoritmos, descobrindo quem eu quero me tornar 💻🌙
+  <span style="color:#FFB3C6;">
+    📖✨ entre livros, algoritmos e sonhos — construindo meu futuro um commit por vez
+  </span>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff0f7b,100:ff4d6d"/>
 </p>
