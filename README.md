@@ -21,8 +21,19 @@ const gabi = {
   hobbies: ["leituras", "artesanatos", "assistir filmes e séries"],
 }
 ```
-
 ---
+
+## ☕ Pequenas coisas que eu amo
+
+```txt
+📚 dias chuvosos + livros
+🎧 música enquanto programo
+🩷 detalhes em rosa
+🪴 lugares aconchegantes
+✨ personalizar meu github
+🧸 papelaria fofa
+☕ café e séries antigas
+```
 
 ## 💻 Tecnologias & Ferramentas
 
