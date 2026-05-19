@@ -28,11 +28,10 @@ const gabi = {
 ```txt
 📚 dias chuvosos + livros
 🎧 música enquanto programo
-🩷 detalhes em rosa
 🪴 lugares aconchegantes
-✨ personalizar meu github
-🧸 papelaria fofa
-☕ café e séries antigas
+✨ personalizar tudo
+🧸 papelaria em geral
+☕ filmes e séries antigas
 ```
 
 ## 💻 Tecnologias & Ferramentas
