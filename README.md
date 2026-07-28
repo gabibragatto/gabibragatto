@@ -42,14 +42,6 @@ const gabi = {
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabibragatto&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ## 🌸 Atualmente
 
 - 📚 Aprendendo JavaScript e desenvolvimento web
